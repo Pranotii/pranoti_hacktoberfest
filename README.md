@@ -1,1 +1,1 @@
-# pranoti_hacktoberfest
+# pranoti_hacktober
